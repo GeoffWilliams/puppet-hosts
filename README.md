@@ -120,4 +120,6 @@ bundle exec rake spec
 ```
 
 It is suggested to have your CI server execute these tests before allowing code
-to be published to the puppet master.  **DO NOT ATTEMPT TO RUN RSPEC TEST ON THE PUPPET MASTER!**
+to be published to the puppet master.  
+
+**DO NOT ATTEMPT TO RUN RSPEC TESTS ON THE PUPPET MASTER!**
